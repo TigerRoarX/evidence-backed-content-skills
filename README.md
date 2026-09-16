@@ -2,6 +2,8 @@
 
 作者：[@TigerRoarX](https://github.com/TigerRoarX)
 
+当前版本：`v0.2.0`
+
 这是一套面向中文创作者的内容工作流，兼容 Codex、Claude Code 以及其他支持 Agent Skills 标准的运行环境。
 
 它专门解决内容自动化里最容易被忽略的部分：让每条重要结论都能追溯到来源，把事实和推断分开，并在发布前发现引用、隐私和版权风险。
@@ -11,6 +13,10 @@
 - **research-with-sources**：建立带来源台账、可复核的研究包。
 - **content-remix**：把已确认的研究包改写成公众号、小红书、X、知乎或 Newsletter 内容，不新增无依据的结论。
 - **publish-quality-check**：在发布前检查证据、时效、署名、隐私、版权、安全和平台格式风险。
+
+## 完整案例
+
+见 [`examples/official-skills-research`](examples/official-skills-research)，包含研究包、公众号稿、小红书稿和发布前质检报告。
 
 ## 安装
 
