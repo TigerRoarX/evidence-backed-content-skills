@@ -1,8 +1,8 @@
-# 有证据链的中文内容 Skills
+# TigerRoarX 的中文内容 Skills
 
-作者：[@TigerRoarX](https://github.com/TigerRoarX)
+一套从资料研究到多平台发布前质检的中文内容工作流。
 
-当前版本：`v0.2.0`
+当前版本：`v0.2.1`
 
 这是一套面向中文创作者的内容工作流，兼容 Codex、Claude Code 以及其他支持 Agent Skills 标准的运行环境。
 
@@ -40,7 +40,7 @@ npx skills add TigerRoarX/evidence-backed-content-skills
 
 ```text
 $research-with-sources
-研究 2026 年中国 AI 编程工具的团队采用情况。限定中国市场，优先官方资料和公开调研，输出来源台账，并把事实、推断和未知分开。
+研究中国企业团队采用 AI 编程工具的现状，研究范围限定为中国市场。优先官方资料和公开调研，输出来源台账，并把事实、推断和未知分开。
 ```
 
 ```text
@@ -69,6 +69,6 @@ python scripts/check_research_pack.py path/to/research-pack.md
 - 研究、写作和发布分开，默认不执行外部发布动作。
 - 平台文案可以缩短引用，但完整来源台账必须保留。
 
-## 作者与协议
+## 维护与协议
 
-作者：TigerRoarX。项目采用 MIT 协议，见 [LICENSE](LICENSE)。
+维护：[@TigerRoarX](https://github.com/TigerRoarX)。项目采用 MIT 协议，见 [LICENSE](LICENSE)。
