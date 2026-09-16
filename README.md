@@ -40,7 +40,7 @@ npx skills add TigerRoarX/evidence-backed-content-skills
 
 ```text
 $research-with-sources
-研究中国企业团队采用 AI 编程工具的现状，研究范围限定为中国市场。优先官方资料和公开调研，输出来源台账，并把事实、推断和未知分开。
+我准备写一篇面向开发者的 AI 编程工具体验文章。请基于公开资料整理主流工具的功能、适用人群和上手成本，标注来源，并把事实、体验判断和待确认信息分开。
 ```
 
 ```text

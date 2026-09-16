@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Replaced the research example with a natural public-information content scenario.
+
 ## v0.2.2 - 2026-09-16
 
 - Refined the project name to `TigerRoarX 内容创作 Skills` for a more natural product identity.
