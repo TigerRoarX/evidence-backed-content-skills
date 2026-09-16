@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content Remix"
+  short_description: "Adapt evidence-backed material to each platform"
+  default_prompt: "Turn this approved research pack into platform-specific Chinese drafts without adding unsupported claims."

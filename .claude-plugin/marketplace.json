@@ -1,0 +1,23 @@
+{
+  "name": "evidence-backed-content-skills",
+  "owner": {
+    "name": "Evidence-backed Content Skills contributors"
+  },
+  "metadata": {
+    "description": "Source-aware research, content remixing, and publication QA for Chinese creators",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "content-research-skills",
+      "description": "Evidence-backed research and multi-platform content workflows",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/research-with-sources",
+        "./skills/content-remix",
+        "./skills/publish-quality-check"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Publish Quality Check"
+  short_description: "Preflight content for evidence and publication risks"
+  default_prompt: "Audit this draft before publication and report blockers, warnings, evidence, and exact fixes."

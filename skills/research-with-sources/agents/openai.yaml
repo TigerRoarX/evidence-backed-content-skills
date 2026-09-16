@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research With Sources"
+  short_description: "Create source-linked, audit-ready research briefs"
+  default_prompt: "Research this question with primary sources, show the evidence ledger, and separate facts from inferences."
