@@ -34,6 +34,7 @@ Cursor's documentation presents Agent as an assistant for autonomous coding task
 
 - Coding accuracy, latency, model quality, pricing, quota limits, and failure rates are not established by these pages.
 - No claim about personal productivity or team adoption should be made without a reproducible hands-on test and a defined sample.
+- The attached task log records a Codex-assisted repository editing task. It validates the content workflow, not Cursor's runtime behavior [S3].
 
 # Suggested editorial angle / 建议写法
 
@@ -45,3 +46,4 @@ Use a small bug-fix or refactor as the article's example task. Mark any observed
 |---|---|---|---|---|---|---|
 | S1 | Overview | Cursor | accessed 2026-09-16 | https://cursor.com/docs/agent | “Assistant for autonomous coding tasks, terminal commands, and code editing” | Direct official documentation |
 | S2 | Cursor Docs — Agent, Rules, MCP, Skills & CLI | Cursor | accessed 2026-09-16 | https://cursor.com/docs | The documentation hub lists Agent mode, Rules, Skills, MCP servers, CLI, models, and Teams & Enterprise setup | Direct official documentation |
+| S3 | 可复现任务记录 | TigerRoarX/evidence-backed-content-skills | 2026-09-16 | `examples/cursor-developer-experience/hands-on-log.md` | Records the repository editing task, commands, review, and limitations | Direct task log |

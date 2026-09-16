@@ -16,7 +16,7 @@
 
 ## 完整案例
 
-见 [`examples/official-skills-research`](examples/official-skills-research) 和 [`examples/cursor-developer-experience`](examples/cursor-developer-experience)，均包含研究包、平台稿和发布前质检报告。
+见 [`examples/official-skills-research`](examples/official-skills-research) 和 [`examples/cursor-developer-experience`](examples/cursor-developer-experience)，均包含研究包、平台稿和发布前质检报告；后者还附有可复现的任务记录。
 
 ## 安装
 
