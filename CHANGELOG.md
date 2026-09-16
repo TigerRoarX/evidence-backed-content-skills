@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## v0.2.3 - 2026-09-16
 
 - Replaced the research example with a natural public-information content scenario.
 

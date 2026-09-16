@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "面向中文创作者的可核验内容研究、改写与发布前质检技能",
-    "version": "0.2.2"
+    "version": "0.2.3"
   },
   "plugins": [
     {
