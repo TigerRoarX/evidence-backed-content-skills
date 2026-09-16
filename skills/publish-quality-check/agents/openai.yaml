@@ -1,4 +1,4 @@
 interface:
-  display_name: "Publish Quality Check"
-  short_description: "Preflight content for evidence and publication risks"
-  default_prompt: "Audit this draft before publication and report blockers, warnings, evidence, and exact fixes."
+  display_name: "发布前质检"
+  short_description: "检查内容的证据、隐私、版权和发布风险"
+  default_prompt: "发布前审查这份稿件，按阻塞项、警告和通过项列出证据与准确修复建议。"

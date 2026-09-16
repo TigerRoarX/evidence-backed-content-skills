@@ -1,4 +1,4 @@
 interface:
-  display_name: "Research With Sources"
-  short_description: "Create source-linked, audit-ready research briefs"
-  default_prompt: "Research this question with primary sources, show the evidence ledger, and separate facts from inferences."
+  display_name: "来源核验研究"
+  short_description: "产出带来源台账、可复核的中文研究简报"
+  default_prompt: "用一手来源研究这个问题，展示证据台账，并把事实、推断和未知分开。"

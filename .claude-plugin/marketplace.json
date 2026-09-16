@@ -1,16 +1,16 @@
 {
   "name": "evidence-backed-content-skills",
   "owner": {
-    "name": "Evidence-backed Content Skills contributors"
+    "name": "TigerRoarX（中文作者）"
   },
   "metadata": {
-    "description": "Source-aware research, content remixing, and publication QA for Chinese creators",
+    "description": "面向中文创作者的可核验内容研究、改写与发布前质检技能",
     "version": "0.1.0"
   },
   "plugins": [
     {
-      "name": "content-research-skills",
-      "description": "Evidence-backed research and multi-platform content workflows",
+      "name": "中文内容研究工作流",
+      "description": "面向中文内容创作者的资料研究、多平台改写与发布前质检",
       "source": "./",
       "strict": false,
       "skills": [
