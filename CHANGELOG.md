@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.2 - 2026-09-16
+
+- Refined the project name to `TigerRoarX 内容创作 Skills` for a more natural product identity.
+
 ## v0.2.1 - 2026-09-16
 
 - Refined the Chinese-first project branding without adding identity labels.
