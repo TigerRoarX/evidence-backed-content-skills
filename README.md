@@ -2,7 +2,7 @@
 
 一套从资料研究到多平台发布前质检的内容创作工作流。
 
-当前版本：`v0.2.3`
+当前版本：`v0.3.0`
 
 这是一套面向中文创作者的内容工作流，兼容 Codex、Claude Code 以及其他支持 Agent Skills 标准的运行环境。
 
@@ -16,7 +16,7 @@
 
 ## 完整案例
 
-见 [`examples/official-skills-research`](examples/official-skills-research) 和 [`examples/cursor-developer-experience`](examples/cursor-developer-experience)，均包含研究包、平台稿和发布前质检报告；后者还附有可复现的任务记录。
+见 [`examples/official-skills-research`](examples/official-skills-research)、[`examples/cursor-developer-experience`](examples/cursor-developer-experience) 和 [`examples/qoder-monthly-research`](examples/qoder-monthly-research)，均包含研究包、平台稿和发布前质检报告；开发者体验案例还附有可复现的任务记录。
 
 ## 安装
 

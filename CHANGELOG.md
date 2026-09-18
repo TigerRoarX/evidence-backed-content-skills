@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.3.0 - 2026-09-18
+
+- Added a Qoder monthly research example based on public official sources.
+- Added WeChat, Xiaohongshu, and publication QA outputs with an explicit evidence boundary for screenshot-only claims.
+
 ## v0.2.3 - 2026-09-16
 
 - Replaced the research example with a natural public-information content scenario.
